@@ -1,0 +1,6 @@
+.qodo
+__pycache__
+log
+.env
+.env.production
+.env.staging
